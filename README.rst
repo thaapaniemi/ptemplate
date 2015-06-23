@@ -1,8 +1,5 @@
 ptemplate
 =========
 
-Welcome to ptemplate, a lightweight templating system for Python. This
-project's documentation is available at `packages.python.org`_ (or in the docs/
-subdirectory).
+Welcome to ptemplate, a lightweight templating system for Python. This is single file fork of whilp/ptemplate.
 
-.. _packages.python.org:    http://packages.python.org/ptemplate
